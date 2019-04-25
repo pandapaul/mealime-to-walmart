@@ -19,7 +19,7 @@ function getTestFromFile(filePath) {
   const mod = require(path.join(__dirname, filePath))
   return {
     path: filePath,
-    test: mod.path
+    test: mod.test
   }
 }
 
