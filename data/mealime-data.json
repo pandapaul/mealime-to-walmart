@@ -1,0 +1,1877 @@
+{
+  "data": {
+    "id": 6340189,
+    "created_at": 1556185520000,
+    "serving_count": 4,
+    "meals": [
+      {
+        "id": 19584477,
+        "is_cooked": false,
+        "recipe_variant_id": 1135,
+        "published_recipe_uuid": "ad0bfde3-356d-4357-9af3-d6f2eceae73c",
+        "is_favourited": false,
+        "has_rating": false,
+        "recipe": {
+          "id": 1135,
+          "recipe_id": 197,
+          "serving_count": 4,
+          "cooking_minutes": 30,
+          "name": "Chicken \u0026 Fresh Mozzarella Sandwich with Avocado \u0026 Spinach Salad",
+          "slug": "chicken-fresh-mozzarella-sandwich-avocado-spinach-salad",
+          "units": "US",
+          "thumbnail_image_url": "https://d4bvtvpzvo1zc.cloudfront.net/uploads/recipe/thumbnail/197/thumbnail_e5f18e86-2419-41e2-892d-d0caf6c8602e.jpg",
+          "presentation_image_url": "https://d4bvtvpzvo1zc.cloudfront.net/uploads/recipe/thumbnail/197/presentation_e5f18e86-2419-41e2-892d-d0caf6c8602e.jpg",
+          "cookwares": [
+            {
+              "id": 33,
+              "name": "baking sheet pan",
+              "slug": "baking-sheet-pan"
+            },
+            { "id": 2, "name": "chef's knife", "slug": "chef-s-knife" },
+            { "id": 1, "name": "cutting board", "slug": "cutting-board" },
+            {
+              "id": 3,
+              "name": "garlic press (optional)",
+              "slug": "garlic-press"
+            },
+            {
+              "id": 45,
+              "name": "grill pan, outdoor grill, or skillet",
+              "slug": "grill-pan-outdoor-grill-or-skillet"
+            },
+            { "id": 5, "name": "measuring spoons", "slug": "measuring-spoons" },
+            { "id": 34, "name": "oven mitts", "slug": "oven-mitts" },
+            {
+              "id": 36,
+              "name": "salad spinner (optional)",
+              "slug": "salad-spinner"
+            },
+            { "id": 35, "name": "tongs", "slug": "tongs" },
+            { "id": 42, "name": "whisk or fork", "slug": "whisk-or-fork" }
+          ],
+          "instructions": [
+            {
+              "id": 9018,
+              "primary_message": "Heat a grill pan, outdoor grill, or skillet over medium-high heat.",
+              "secondary_message": ""
+            },
+            {
+              "id": 9019,
+              "primary_message": "In a medium bowl, prepare marinade by whisking together oil, Italian seasoning, salt, and pepper.",
+              "secondary_message": "2 tbsp extra virgin olive oil\r\n¼ tsp Italian seasoning\r\n¼ tsp salt\r\n¼ tsp black pepper"
+            },
+            {
+              "id": 9020,
+              "primary_message": "Slice chicken in half horizontally to form thin fillets. Add to bowl with marinade and toss to coat.",
+              "secondary_message": "1 lb chicken breasts, boneless skinless"
+            },
+            {
+              "id": 9021,
+              "primary_message": "Coat grill or bottom of skillet with oil. Add chicken and cook until browned and cooked through, 2-3 minutes per side.",
+              "secondary_message": "about 2 tbsp virgin coconut oil"
+            },
+            {
+              "id": 9022,
+              "primary_message": "Preheat oven to broil and position rack under the broiler.",
+              "secondary_message": ""
+            },
+            {
+              "id": 9023,
+              "primary_message": "Wash and slice tomatoes into rounds. Halve and pit avocados; thinly slice ½ (save the rest for the salad) while still in skin and scoop out.",
+              "secondary_message": "2 tomatoes\r\n2 avocados"
+            },
+            {
+              "id": 9024,
+              "primary_message": "Slice mozzarella into rounds.",
+              "secondary_message": "1 (8 oz) pkg fresh mozzarella cheese"
+            },
+            {
+              "id": 9025,
+              "primary_message": "Place buns or rolls, cut side up, on a sheet pan. Top the bottom halves with avocado slices, chicken, tomato slices, and mozzarella. Leave the top halves as is so they get crusty.",
+              "secondary_message": "4 whole grain buns or rolls"
+            },
+            {
+              "id": 9026,
+              "primary_message": "Place in the oven and broil until cheese melts, 3-4 minutes.",
+              "secondary_message": ""
+            },
+            {
+              "id": 9027,
+              "primary_message": "Peel and mince garlic. In a large bowl, prepare dressing by combining garlic, oil, vinegar, salt, pepper, and remaining avocado. Mash together until smooth.",
+              "secondary_message": "2 cloves garlic\r\n2 tbsp extra virgin olive oil\r\n2 tsp red wine vinegar\r\n¼ tsp salt\r\n¼ tsp black pepper"
+            },
+            {
+              "id": 9028,
+              "primary_message": "Wash and dry spinach. Add to bowl with dressing and toss to coat.",
+              "secondary_message": "1 (5 oz) pkg baby spinach"
+            },
+            {
+              "id": 9029,
+              "primary_message": "To serve, place sandwiches on a plate and have with spinach salad on the side. Enjoy!",
+              "secondary_message": ""
+            }
+          ],
+          "line_items": [
+            { "id": 13867, "quantity": "2", "ingredient_name": "avocados" },
+            {
+              "id": 13866,
+              "quantity": "1 (5 oz) pkg",
+              "ingredient_name": "baby spinach"
+            },
+            {
+              "id": 13872,
+              "quantity": "1 lb",
+              "ingredient_name": "chicken breasts, boneless skinless"
+            },
+            {
+              "id": 13870,
+              "quantity": "1 (8 oz) pkg",
+              "ingredient_name": "fresh mozzarella cheese"
+            },
+            {
+              "id": 13871,
+              "quantity": "2 cloves",
+              "ingredient_name": "garlic"
+            },
+            { "id": 13865, "quantity": "2", "ingredient_name": "tomatoes" },
+            {
+              "id": 13869,
+              "quantity": "4",
+              "ingredient_name": "whole grain buns or rolls"
+            },
+            { "id": 13864, "quantity": "", "ingredient_name": "black pepper" },
+            {
+              "id": 13868,
+              "quantity": "",
+              "ingredient_name": "extra virgin olive oil"
+            },
+            {
+              "id": 13863,
+              "quantity": "",
+              "ingredient_name": "Italian seasoning"
+            },
+            {
+              "id": 13862,
+              "quantity": "",
+              "ingredient_name": "red wine vinegar"
+            },
+            { "id": 13861, "quantity": "", "ingredient_name": "salt" },
+            {
+              "id": 13873,
+              "quantity": "",
+              "ingredient_name": "virgin coconut oil"
+            }
+          ],
+          "nutrition": {
+            "energy": 776.39,
+            "alcohol": 0.0,
+            "ash": 8.11,
+            "caffeine": 0.0,
+            "water": 296.25,
+            "carbs": 31.98,
+            "fiber": 11.27,
+            "starch": 10.99,
+            "sugars": 7.37,
+            "fructose": 2.75,
+            "galactose": 0.22,
+            "glucose": 2.74,
+            "lactose": 0.04,
+            "maltose": 1.5,
+            "sucrose": 0.11,
+            "sugar_alcohol": 0.0,
+            "fat": 52.72,
+            "monounsaturated": 25.47,
+            "polyunsaturated": 5.35,
+            "omega_3": 0.57,
+            "omega_6": 4.13,
+            "saturated": 18.48,
+            "transfats": 0.69,
+            "cholesterol": 127.61,
+            "protein": 47.37,
+            "alanine": 2.16,
+            "arginine": 2.29,
+            "aspartic_acid": 3.88,
+            "cystine": 0.44,
+            "glutamic_acid": 7.81,
+            "glycine": 1.69,
+            "histidine": 1.39,
+            "isoleucine": 2.14,
+            "leucine": 3.57,
+            "lysine": 3.29,
+            "methionine": 1.06,
+            "phenylalanine": 1.89,
+            "proline": 2.57,
+            "serine": 1.68,
+            "threonine": 1.91,
+            "tryptophan": 0.7,
+            "tyrosine": 1.69,
+            "valine": 2.37,
+            "b1_thiamine": 0.4,
+            "b2_riboflavin": 0.67,
+            "b3_niacin": 15.36,
+            "b5_pantothenic_acid": 3.56,
+            "b6_pyridoxine": 1.43,
+            "b12_cobalamin": 1.53,
+            "choline": 139.09,
+            "folate": 195.44,
+            "vitamin_a": 1077.22,
+            "vitamin_c": 28.95,
+            "vitamin_d": 10.21,
+            "vitamin_e": 6.09,
+            "vitamin_k": 211.06,
+            "calcium": 396.1,
+            "copper": 0.49,
+            "iron": 3.59,
+            "magnesium": 143.56,
+            "manganese": 1.55,
+            "phosphorus": 616.79,
+            "potassium": 1366.99,
+            "selenium": 53.82,
+            "sodium": 649.08,
+            "zinc": 4.17
+          }
+        }
+      },
+      {
+        "id": 19584478,
+        "is_cooked": false,
+        "recipe_variant_id": 2080,
+        "published_recipe_uuid": "8c68f282-0eda-4559-81ad-0e220f5e0181",
+        "is_favourited": false,
+        "has_rating": false,
+        "recipe": {
+          "id": 2080,
+          "recipe_id": 190,
+          "serving_count": 4,
+          "cooking_minutes": 30,
+          "name": "Southwestern Black Bean Cakes with Guacamole \u0026 Corn",
+          "slug": "southwestern-black-bean-cakes-guacamole-corn",
+          "units": "US",
+          "thumbnail_image_url": "https://d4bvtvpzvo1zc.cloudfront.net/uploads/recipe/thumbnail/190/thumbnail_cddf1a50-d037-4359-af39-8da2bbb4104d.jpg",
+          "presentation_image_url": "https://d4bvtvpzvo1zc.cloudfront.net/uploads/recipe/thumbnail/190/presentation_cddf1a50-d037-4359-af39-8da2bbb4104d.jpg",
+          "cookwares": [
+            { "id": 10, "name": "can opener", "slug": "can-opener" },
+            { "id": 2, "name": "chef's knife", "slug": "chef-s-knife" },
+            {
+              "id": 37,
+              "name": "citrus juicer (optional)",
+              "slug": "citrus-juicer"
+            },
+            { "id": 11, "name": "colander", "slug": "colander" },
+            { "id": 1, "name": "cutting board", "slug": "cutting-board" },
+            {
+              "id": 3,
+              "name": "garlic press (optional)",
+              "slug": "garlic-press"
+            },
+            { "id": 22, "name": "measuring cups", "slug": "measuring-cups" },
+            { "id": 5, "name": "measuring spoons", "slug": "measuring-spoons" },
+            { "id": 23, "name": "mixing bowls", "slug": "mixing-bowls" },
+            {
+              "id": 36,
+              "name": "salad spinner (optional)",
+              "slug": "salad-spinner"
+            },
+            { "id": 18, "name": "spatula", "slug": "spatula" },
+            {
+              "id": 59,
+              "name": "stainless steel or cast iron skillet",
+              "slug": "stainless-steel-or-cast-iron-skillet"
+            }
+          ],
+          "instructions": [
+            {
+              "id": 19602,
+              "primary_message": "Drain and rinse beans.",
+              "secondary_message": "2 (15 oz) cans black beans"
+            },
+            {
+              "id": 19603,
+              "primary_message": "Wash and dry jalapeños and cilantro. Seed and mince jalapeñso. Shave cilantro leaves off the stems; discard the stems and mince the leaves.",
+              "secondary_message": "2 jalapeño peppers\r\n1 small bunch cilantro"
+            },
+            {
+              "id": 19604,
+              "primary_message": "Transfer beans to a large bowl and mash with a fork. Add eggs, jalapeños, ½ of the cilantro (save the rest for the guacamole), bread crumbs, cumin, salt, and pepper. Mix until well combined.",
+              "secondary_message": "2 eggs\r\n½ cup panko bread crumbs\r\n1 tsp cumin\r\n½ tsp salt\r\n½ tsp black pepper"
+            },
+            {
+              "id": 19605,
+              "primary_message": "Heat a skillet over medium heat.",
+              "secondary_message": ""
+            },
+            {
+              "id": 19606,
+              "primary_message": "Halve and pit avocados; scoop out the flesh into a medium bowl. Add remaining cilantro, lime juice, salt, and pepper. Mash with a fork until smooth.",
+              "secondary_message": "2 avocados\r\njuice of 1 lime\r\n½ tsp salt\r\n¼ tsp black pepper"
+            },
+            {
+              "id": 19607,
+              "primary_message": "Measure out corn.",
+              "secondary_message": "2 cups frozen corn"
+            },
+            {
+              "id": 19608,
+              "primary_message": "Coat bottom of skillet with oil. Add corn and cook until heated through, 2-3 minutes. Transfer to a bowl.",
+              "secondary_message": "1 tbsp virgin coconut oil"
+            },
+            {
+              "id": 19609,
+              "primary_message": "Shape black bean mixture into 12-16 patties and place on a plate.",
+              "secondary_message": ""
+            },
+            {
+              "id": 19610,
+              "primary_message": "Once corn has been transferred, wipe skillet and coat with more oil. Working in batches, add patties and cook until browned and crisp, 3-4 minutes per side.",
+              "secondary_message": "2 tbsp virgin coconut oil"
+            },
+            {
+              "id": 19611,
+              "primary_message": "Peel and mince garlic. Add garlic, lime juice, salt, and pepper to corn; mix to combine.",
+              "secondary_message": "2 cloves garlic\r\njuice of 1 lime\r\n⅛ tsp salt\r\n⅛ tsp black pepper"
+            },
+            {
+              "id": 19612,
+              "primary_message": "Serve black bean cakes with guacamole and corn. Enjoy!",
+              "secondary_message": ""
+            }
+          ],
+          "line_items": [
+            { "id": 25957, "quantity": "2", "ingredient_name": "avocados" },
+            {
+              "id": 25958,
+              "quantity": "2 (15 oz) cans",
+              "ingredient_name": "black beans"
+            },
+            {
+              "id": 25959,
+              "quantity": "1 small bunch",
+              "ingredient_name": "cilantro"
+            },
+            { "id": 25960, "quantity": "2", "ingredient_name": "eggs" },
+            {
+              "id": 25961,
+              "quantity": "2 cups",
+              "ingredient_name": "frozen corn"
+            },
+            {
+              "id": 25962,
+              "quantity": "2 cloves",
+              "ingredient_name": "garlic"
+            },
+            {
+              "id": 25963,
+              "quantity": "2",
+              "ingredient_name": "jalapeño peppers"
+            },
+            { "id": 25964, "quantity": "2", "ingredient_name": "limes" },
+            { "id": 25965, "quantity": "", "ingredient_name": "black pepper" },
+            { "id": 25966, "quantity": "", "ingredient_name": "cumin" },
+            {
+              "id": 25967,
+              "quantity": "",
+              "ingredient_name": "panko bread crumbs"
+            },
+            { "id": 25968, "quantity": "", "ingredient_name": "salt" },
+            {
+              "id": 25969,
+              "quantity": "",
+              "ingredient_name": "virgin coconut oil"
+            }
+          ],
+          "nutrition": {
+            "energy": 569.24,
+            "alcohol": 0.0,
+            "ash": 6.26,
+            "caffeine": 0.0,
+            "water": 269.97,
+            "carbs": 65.91,
+            "fiber": 23.1,
+            "starch": 36.16,
+            "sugars": 4.25,
+            "fructose": 0.89,
+            "galactose": 0.1,
+            "glucose": 1.18,
+            "lactose": 0.0,
+            "maltose": 0.26,
+            "sucrose": 1.77,
+            "sugar_alcohol": 0.0,
+            "fat": 29.2,
+            "monounsaturated": 11.8,
+            "polyunsaturated": 3.51,
+            "omega_3": 0.43,
+            "omega_6": 2.88,
+            "saturated": 12.12,
+            "transfats": 0.01,
+            "cholesterol": 81.84,
+            "protein": 19.27,
+            "alanine": 0.96,
+            "arginine": 0.96,
+            "aspartic_acid": 2.15,
+            "cystine": 0.25,
+            "glutamic_acid": 3.03,
+            "glycine": 0.75,
+            "histidine": 0.47,
+            "isoleucine": 0.85,
+            "leucine": 1.62,
+            "lysine": 1.24,
+            "methionine": 0.33,
+            "phenylalanine": 1.0,
+            "proline": 1.16,
+            "serine": 1.12,
+            "threonine": 0.67,
+            "tryptophan": 0.22,
+            "tyrosine": 0.53,
+            "valine": 1.09,
+            "b1_thiamine": 0.54,
+            "b2_riboflavin": 0.44,
+            "b3_niacin": 4.67,
+            "b5_pantothenic_acid": 2.55,
+            "b6_pyridoxine": 0.69,
+            "b12_cobalamin": 0.22,
+            "choline": 158.75,
+            "folate": 321.52,
+            "vitamin_a": 413.33,
+            "vitamin_c": 36.37,
+            "vitamin_d": 18.04,
+            "vitamin_e": 3.22,
+            "vitamin_k": 87.01,
+            "calcium": 152.55,
+            "copper": 0.59,
+            "iron": 5.45,
+            "magnesium": 126.79,
+            "manganese": 1.19,
+            "phosphorus": 361.71,
+            "potassium": 1332.6,
+            "selenium": 13.76,
+            "sodium": 603.59,
+            "zinc": 2.81
+          }
+        }
+      },
+      {
+        "id": 19584479,
+        "is_cooked": false,
+        "recipe_variant_id": 4719,
+        "published_recipe_uuid": "990efd56-b093-40af-a10f-e03d622d424e",
+        "is_favourited": false,
+        "has_rating": false,
+        "recipe": {
+          "id": 4719,
+          "recipe_id": 703,
+          "serving_count": 4,
+          "cooking_minutes": 25,
+          "name": "Garlicky Spaghetti Parmesan Carbonara",
+          "slug": "garlicky-spaghetti-parmesan-carbonara",
+          "units": "US",
+          "thumbnail_image_url": "https://d4bvtvpzvo1zc.cloudfront.net/uploads/recipe/thumbnail/703/thumbnail_393b3d4f-bcac-43ca-80d9-5351e1f3af9e.jpeg",
+          "presentation_image_url": "https://d4bvtvpzvo1zc.cloudfront.net/uploads/recipe/thumbnail/703/presentation_393b3d4f-bcac-43ca-80d9-5351e1f3af9e.jpeg",
+          "cookwares": [
+            { "id": 2, "name": "chef's knife", "slug": "chef-s-knife" },
+            { "id": 11, "name": "colander", "slug": "colander" },
+            { "id": 1, "name": "cutting board", "slug": "cutting-board" },
+            {
+              "id": 3,
+              "name": "garlic press (optional)",
+              "slug": "garlic-press"
+            },
+            { "id": 15, "name": "grater", "slug": "grater" },
+            { "id": 78, "name": "large pot", "slug": "large-pot" },
+            { "id": 22, "name": "measuring cups", "slug": "measuring-cups" },
+            { "id": 23, "name": "mixing bowls", "slug": "mixing-bowls" },
+            {
+              "id": 91,
+              "name": "nonstick skillet",
+              "slug": "nonstick-skillet"
+            },
+            { "id": 13, "name": "stirring spoon", "slug": "stirring-spoon" }
+          ],
+          "instructions": [
+            {
+              "id": 85741,
+              "primary_message": "Fill a large pot halfway with water, season water with salt, cover and bring to a boil. Add pasta and stir for a few seconds. Cook, uncovered, until desired firmness, 8-10 minutes",
+              "secondary_message": "2 tsp salt\n10 oz spaghetti pasta"
+            },
+            {
+              "id": 85742,
+              "primary_message": "While pasta is cooking, preheat a skillet over medium-high heat.",
+              "secondary_message": null
+            },
+            {
+              "id": 85743,
+              "primary_message": "Chop the bacon into 1-inch pieces; add to the skillet and cook until crispy, 4-5 minutes. Once done, transfer to a plate lined with paper towels. Reserve 2 tbsp of bacon fat.",
+              "secondary_message": "6 slices bacon"
+            },
+            {
+              "id": 85744,
+              "primary_message": "Meanwhile, crack the eggs into a medium bowl; add 3 tbsp cream and whisk to combine.",
+              "secondary_message": "4 eggs\n1 ½ fl oz heavy cream"
+            },
+            {
+              "id": 85745,
+              "primary_message": "Finely grate Parmesan and transfer to the bowl with egg mixture. Season with salt and pepper; whisk to combine.",
+              "secondary_message": "3 oz Parmesan cheese\n1 tsp salt\n½ tsp black pepper"
+            },
+            {
+              "id": 85746,
+              "primary_message": "When pasta is done, drain in a colander, reserving ½ cup of cooking liquid. ",
+              "secondary_message": null
+            },
+            {
+              "id": 85747,
+              "primary_message": "Trim off and discard the root ends of the garlic; peel and mince or press the garlic. ",
+              "secondary_message": "4 cloves garlic"
+            },
+            {
+              "id": 85748,
+              "primary_message": "Add the reserved bacon fat to empty pasta pot. Return pot to heat, reduce heat to low. Add garlic, stirring until fragrant, about 1-2 minutes.",
+              "secondary_message": null
+            },
+            {
+              "id": 85749,
+              "primary_message": "Return pasta and bacon to pot. Remove pot from heat, add the egg mixture to pasta, stirring frequently. Stir just until the egg mixture begins to thicken, 3-4 minutes. ",
+              "secondary_message": null
+            },
+            {
+              "id": 85750,
+              "primary_message": "If the sauce seems dry, add some of the reserved pasta water 1 tbsp at a time, until rich and creamy.",
+              "secondary_message": null
+            },
+            {
+              "id": 85751,
+              "primary_message": "Wash and dry parsley. Shave leaves off the stems; discard the stems and mince the leaves. Reserve a small amount for garnish and add the rest to the pot with the pasta.",
+              "secondary_message": "1 small bunch Italian (flat-leaf) parsley"
+            },
+            {
+              "id": 85752,
+              "primary_message": "To serve, divide pasta between bowls and garnish with remaining parsley. Enjoy!",
+              "secondary_message": null
+            }
+          ],
+          "line_items": [
+            { "id": 88833, "quantity": "6 slices", "ingredient_name": "bacon" },
+            { "id": 88832, "quantity": "4", "ingredient_name": "eggs" },
+            {
+              "id": 88826,
+              "quantity": "4 cloves",
+              "ingredient_name": "garlic"
+            },
+            {
+              "id": 88834,
+              "quantity": "1 ½ fl oz",
+              "ingredient_name": "heavy cream"
+            },
+            {
+              "id": 88830,
+              "quantity": "1 small bunch",
+              "ingredient_name": "Italian (flat-leaf) parsley"
+            },
+            {
+              "id": 88831,
+              "quantity": "3 oz",
+              "ingredient_name": "Parmesan cheese"
+            },
+            {
+              "id": 88827,
+              "quantity": "10 oz",
+              "ingredient_name": "spaghetti pasta"
+            },
+            { "id": 88828, "quantity": "", "ingredient_name": "black pepper" },
+            { "id": 88829, "quantity": "", "ingredient_name": "salt" }
+          ],
+          "nutrition": {
+            "energy": 633.44,
+            "alcohol": 0.0,
+            "ash": 8.34,
+            "caffeine": 0.0,
+            "water": 86.7,
+            "carbs": 56.9,
+            "fiber": 2.9,
+            "starch": 45.19,
+            "sugars": 3.23,
+            "fructose": 0.14,
+            "galactose": 0.0,
+            "glucose": 0.27,
+            "lactose": 0.48,
+            "maltose": 1.39,
+            "sucrose": 0.92,
+            "sugar_alcohol": 0.0,
+            "fat": 31.69,
+            "monounsaturated": 11.89,
+            "polyunsaturated": 4.25,
+            "omega_3": 0.31,
+            "omega_6": 3.94,
+            "saturated": 13.24,
+            "transfats": 0.35,
+            "cholesterol": 221.14,
+            "protein": 28.57,
+            "alanine": 1.2,
+            "arginine": 1.36,
+            "aspartic_acid": 2.08,
+            "cystine": 0.42,
+            "glutamic_acid": 6.66,
+            "glycine": 0.91,
+            "histidine": 0.88,
+            "isoleucine": 1.35,
+            "leucine": 2.41,
+            "lysine": 1.84,
+            "methionine": 0.63,
+            "phenylalanine": 1.44,
+            "proline": 2.5,
+            "serine": 1.57,
+            "threonine": 1.12,
+            "tryptophan": 0.38,
+            "tyrosine": 1.05,
+            "valine": 1.64,
+            "b1_thiamine": 0.79,
+            "b2_riboflavin": 0.62,
+            "b3_niacin": 7.09,
+            "b5_pantothenic_acid": 1.42,
+            "b6_pyridoxine": 0.36,
+            "b12_cobalamin": 0.88,
+            "choline": 167.85,
+            "folate": 213.53,
+            "vitamin_a": 586.26,
+            "vitamin_c": 20.95,
+            "vitamin_d": 49.85,
+            "vitamin_e": 1.0,
+            "vitamin_k": 1.6,
+            "calcium": 77.62,
+            "copper": 0.3,
+            "iron": 4.48,
+            "magnesium": 66.81,
+            "manganese": 0.79,
+            "phosphorus": 449.78,
+            "potassium": 425.36,
+            "selenium": 72.04,
+            "sodium": 359.95,
+            "zinc": 2.88
+          }
+        }
+      },
+      {
+        "id": 19584480,
+        "is_cooked": false,
+        "recipe_variant_id": 1067,
+        "published_recipe_uuid": "4b7abb2b-1364-4d58-8de9-48b3ebf98d93",
+        "is_favourited": false,
+        "has_rating": false,
+        "recipe": {
+          "id": 1067,
+          "recipe_id": 103,
+          "serving_count": 4,
+          "cooking_minutes": 25,
+          "name": "Better Than Takeout Chicken Fried Rice",
+          "slug": "better-than-takeout-chicken-fried-rice",
+          "units": "US",
+          "thumbnail_image_url": "https://d4bvtvpzvo1zc.cloudfront.net/uploads/recipe/thumbnail/103/thumbnail_e990aa87-4720-4120-af58-69737977bff7.jpg",
+          "presentation_image_url": "https://d4bvtvpzvo1zc.cloudfront.net/uploads/recipe/thumbnail/103/presentation_e990aa87-4720-4120-af58-69737977bff7.jpg",
+          "cookwares": [
+            { "id": 2, "name": "chef's knife", "slug": "chef-s-knife" },
+            { "id": 11, "name": "colander", "slug": "colander" },
+            { "id": 1, "name": "cutting board", "slug": "cutting-board" },
+            {
+              "id": 3,
+              "name": "garlic press (optional)",
+              "slug": "garlic-press"
+            },
+            { "id": 22, "name": "measuring cups", "slug": "measuring-cups" },
+            { "id": 5, "name": "measuring spoons", "slug": "measuring-spoons" },
+            { "id": 23, "name": "mixing bowls", "slug": "mixing-bowls" },
+            { "id": 14, "name": "small saucepan", "slug": "small-saucepan" },
+            {
+              "id": 27,
+              "name": "stainless steel skillet",
+              "slug": "stainless-steel-skillet"
+            },
+            { "id": 13, "name": "stirring spoon", "slug": "stirring-spoon" },
+            {
+              "id": 26,
+              "name": "vegetable peeler",
+              "slug": "vegetable-peeler"
+            },
+            { "id": 42, "name": "whisk or fork", "slug": "whisk-or-fork" }
+          ],
+          "instructions": [
+            {
+              "id": 8219,
+              "primary_message": "Using a strainer or colander, rinse the rice under cold, running water, then drain and transfer to a small saucepan. Add water and bring the mixture to a boil over high heat. ",
+              "secondary_message": "1 cup basmati rice\n16 fl oz (2 cups) water"
+            },
+            {
+              "id": 40522,
+              "primary_message": "Once the liquid comes to a boil, stir the mixture, cover the saucepan, and reduce the heat to low. Cook the rice until the liquid is fully absorbed, 15 to 18 minutes. Once done, remove the rice from the heat and let it stand, still covered, for 5 minutes.",
+              "secondary_message": null
+            },
+            {
+              "id": 8220,
+              "primary_message": "Peel and mince garlic. Peel and small dice onion. Wash and dry carrots and green onions. Peel and small dice the carrots. Trim root ends and chop the onions. Measure out peas.",
+              "secondary_message": "2 cloves garlic\r\n1 medium yellow onion\r\n4 medium carrots\r\n1 small bunch green onions (scallions)\r\n2 cups frozen peas"
+            },
+            {
+              "id": 8221,
+              "primary_message": "Heat a skillet over medium heat.",
+              "secondary_message": ""
+            },
+            {
+              "id": 8222,
+              "primary_message": "Cut chicken into bite-sized pieces. Season with salt and pepper.",
+              "secondary_message": "1 ½ lb chicken breasts, boneless skinless\n¼ tsp salt\n¼ tsp black pepper"
+            },
+            {
+              "id": 8223,
+              "primary_message": "Coat bottom of skillet with oil. Add chicken and, stirring occasionally, cook until cooked through, 2-3 minutes. Transfer to a plate.",
+              "secondary_message": "about 2 tbsp toasted sesame oil"
+            },
+            {
+              "id": 8224,
+              "primary_message": "Return skillet to stove, increase heat to medium-high, and add more oil. Add garlic, yellow onion, carrots, and peas to skillet. Stir fry until tender, 2-3 minutes.",
+              "secondary_message": "about 2 tbsp toasted sesame oil"
+            },
+            {
+              "id": 8225,
+              "primary_message": "In a small bowl, whisk eggs.",
+              "secondary_message": "2 eggs"
+            },
+            {
+              "id": 8226,
+              "primary_message": "Move vegetables to one side of the skillet and pour eggs on the other side. Scramble eggs until cooked and mix with vegetables.",
+              "secondary_message": ""
+            },
+            {
+              "id": 8227,
+              "primary_message": "Uncover the rice and fluff with a fork.",
+              "secondary_message": ""
+            },
+            {
+              "id": 8228,
+              "primary_message": "Add rice, chicken, and soy sauce to vegetables. Stir until well combined and heated through, 1-2 minutes.",
+              "secondary_message": "4 tbsp soy sauce"
+            },
+            {
+              "id": 8229,
+              "primary_message": "Remove from heat and sprinkle with green onions.",
+              "secondary_message": ""
+            },
+            {
+              "id": 8230,
+              "primary_message": "To serve, place fried rice in a bowl. Enjoy!",
+              "secondary_message": ""
+            }
+          ],
+          "line_items": [
+            {
+              "id": 13053,
+              "quantity": "1 cup",
+              "ingredient_name": "basmati rice"
+            },
+            {
+              "id": 13058,
+              "quantity": "4 medium",
+              "ingredient_name": "carrots"
+            },
+            {
+              "id": 13059,
+              "quantity": "1 ½ lb",
+              "ingredient_name": "chicken breasts, boneless skinless"
+            },
+            { "id": 13056, "quantity": "2", "ingredient_name": "eggs" },
+            {
+              "id": 13055,
+              "quantity": "2 cups",
+              "ingredient_name": "frozen peas"
+            },
+            {
+              "id": 13054,
+              "quantity": "2 cloves",
+              "ingredient_name": "garlic"
+            },
+            {
+              "id": 13051,
+              "quantity": "1 small bunch",
+              "ingredient_name": "green onions (scallions)"
+            },
+            {
+              "id": 13052,
+              "quantity": "1 medium",
+              "ingredient_name": "yellow onion"
+            },
+            { "id": 13050, "quantity": "", "ingredient_name": "black pepper" },
+            { "id": 13049, "quantity": "", "ingredient_name": "salt" },
+            { "id": 13048, "quantity": "", "ingredient_name": "soy sauce" },
+            {
+              "id": 13047,
+              "quantity": "",
+              "ingredient_name": "toasted sesame oil"
+            }
+          ],
+          "nutrition": {
+            "energy": 634.45,
+            "alcohol": 0.0,
+            "ash": 7.06,
+            "caffeine": 0.0,
+            "water": 316.12,
+            "carbs": 58.0,
+            "fiber": 6.66,
+            "starch": 4.85,
+            "sugars": 8.22,
+            "fructose": 1.07,
+            "galactose": 0.0,
+            "glucose": 1.6,
+            "lactose": 0.0,
+            "maltose": 0.05,
+            "sucrose": 5.69,
+            "sugar_alcohol": 0.0,
+            "fat": 21.28,
+            "monounsaturated": 7.62,
+            "polyunsaturated": 7.25,
+            "omega_3": 0.15,
+            "omega_6": 7.08,
+            "saturated": 3.79,
+            "transfats": 0.02,
+            "cholesterol": 206.01,
+            "protein": 50.75,
+            "alanine": 2.89,
+            "arginine": 3.53,
+            "aspartic_acid": 4.84,
+            "cystine": 0.63,
+            "glutamic_acid": 7.85,
+            "glycine": 2.17,
+            "histidine": 1.71,
+            "isoleucine": 2.43,
+            "leucine": 4.09,
+            "lysine": 4.37,
+            "methionine": 1.25,
+            "phenylalanine": 2.13,
+            "proline": 1.76,
+            "serine": 2.1,
+            "threonine": 2.28,
+            "tryptophan": 0.62,
+            "tyrosine": 1.76,
+            "valine": 2.66,
+            "b1_thiamine": 0.68,
+            "b2_riboflavin": 0.59,
+            "b3_niacin": 20.61,
+            "b5_pantothenic_acid": 4.0,
+            "b6_pyridoxine": 1.73,
+            "b12_cobalamin": 0.55,
+            "choline": 237.26,
+            "folate": 203.44,
+            "vitamin_a": 423.16,
+            "vitamin_c": 22.86,
+            "vitamin_d": 19.74,
+            "vitamin_e": 1.99,
+            "vitamin_k": 81.2,
+            "calcium": 102.45,
+            "copper": 0.34,
+            "iron": 4.95,
+            "magnesium": 108.46,
+            "manganese": 1.15,
+            "phosphorus": 585.41,
+            "potassium": 1144.01,
+            "selenium": 54.45,
+            "sodium": 230.99,
+            "zinc": 2.99
+          }
+        }
+      },
+      {
+        "id": 19584481,
+        "is_cooked": false,
+        "recipe_variant_id": 4600,
+        "published_recipe_uuid": "045c1484-0b9a-4f22-99db-0b25934abc94",
+        "is_favourited": false,
+        "has_rating": false,
+        "recipe": {
+          "id": 4600,
+          "recipe_id": 685,
+          "serving_count": 4,
+          "cooking_minutes": 30,
+          "name": "Cheesy Zucchini Noodle Lasagna Skillet ",
+          "slug": "cheesy-zucchini-noodle-lasagna-skillet",
+          "units": "US",
+          "thumbnail_image_url": "https://d4bvtvpzvo1zc.cloudfront.net/uploads/recipe/thumbnail/685/thumbnail_3cb2d4c1-805a-4fca-aa5f-24051a5386d7.jpeg",
+          "presentation_image_url": "https://d4bvtvpzvo1zc.cloudfront.net/uploads/recipe/thumbnail/685/presentation_3cb2d4c1-805a-4fca-aa5f-24051a5386d7.jpeg",
+          "cookwares": [
+            { "id": 10, "name": "can opener", "slug": "can-opener" },
+            { "id": 2, "name": "chef's knife", "slug": "chef-s-knife" },
+            { "id": 11, "name": "colander", "slug": "colander" },
+            { "id": 1, "name": "cutting board", "slug": "cutting-board" },
+            {
+              "id": 3,
+              "name": "garlic press (optional)",
+              "slug": "garlic-press"
+            },
+            { "id": 15, "name": "grater", "slug": "grater" },
+            { "id": 5, "name": "measuring spoons", "slug": "measuring-spoons" },
+            {
+              "id": 59,
+              "name": "stainless steel or cast iron skillet",
+              "slug": "stainless-steel-or-cast-iron-skillet"
+            },
+            { "id": 13, "name": "stirring spoon", "slug": "stirring-spoon" },
+            { "id": 26, "name": "vegetable peeler", "slug": "vegetable-peeler" }
+          ],
+          "instructions": [
+            {
+              "id": 83472,
+              "primary_message": "Preheat oven to 425°F.",
+              "secondary_message": null
+            },
+            {
+              "id": 83473,
+              "primary_message": "Wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)",
+              "secondary_message": "2 medium zucchini squash\n1 small pkg fresh basil\n1 small bunch Italian (flat-leaf) parsley\n1 (5 oz) pkg baby spinach"
+            },
+            {
+              "id": 83474,
+              "primary_message": "Preheat a skillet over medium-high heat.",
+              "secondary_message": null
+            },
+            {
+              "id": 83475,
+              "primary_message": "Peel and mince or press garlic.",
+              "secondary_message": "4 cloves garlic"
+            },
+            {
+              "id": 83476,
+              "primary_message": "Coat bottom of skillet with oil. Add ground beef and garlic. Break apart the beef with a spoon until crumbly. Stirring occasionally, cook until beef is browned, 4-6 minutes.",
+              "secondary_message": "1 ½ lb lean ground beef\n1 tbsp virgin coconut oil"
+            },
+            {
+              "id": 83477,
+              "primary_message": "Add the tomato paste and cook until fragrant, 1-2 minutes. ",
+              "secondary_message": "2 tbsp tomato paste"
+            },
+            {
+              "id": 83478,
+              "primary_message": "Add the tomatoes and broth. Increase the heat to high and bring to a rapid simmer.",
+              "secondary_message": "1 (14.5 oz) can diced tomatoes\n8 fl oz (1 cup) chicken or vegetable broth"
+            },
+            {
+              "id": 83479,
+              "primary_message": "Shave leaves off the parsley stems; discard the stems and mince the leaves. Pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons. Put some of the fresh herbs aside to use as garnish. ",
+              "secondary_message": null
+            },
+            {
+              "id": 83480,
+              "primary_message": "Add the parsley, basil, spinach, salt, and pepper to the skillet. Continue to cook for another 4-5 minutes. ",
+              "secondary_message": "½ tsp salt\n¼ tsp black pepper"
+            },
+            {
+              "id": 83481,
+              "primary_message": "Trim ends of the zucchini. Using a vegetable peeler, peel zucchini into thick noodle-like strips. ",
+              "secondary_message": null
+            },
+            {
+              "id": 83482,
+              "primary_message": "Remove the tomato sauce from the skillet, and set aside in a bowl.  Arrange the half of the zucchini in a flat layer that covers the bottom of the skillet.  Pour half of the tomato mixture over top of the zucchini noodles. Then arrange a second layer of zucchini noodles, followed by a second layer of sauce. ",
+              "secondary_message": null
+            },
+            {
+              "id": 83483,
+              "primary_message": "Thinly slice the mozzarella cheese. Finely grate the Parmesan cheese.  ",
+              "secondary_message": "½ (8 oz) block mozzarella cheese\n4 oz Parmesan cheese"
+            },
+            {
+              "id": 83484,
+              "primary_message": "Cover the top layer of sauce with mozzarella slices and sprinkle with Parmesan, place in the oven for 10-12 minutes. Put the oven to broil for the last few minutes to brown the top if desired. ",
+              "secondary_message": null
+            },
+            {
+              "id": 83485,
+              "primary_message": "Divide between plates, garnish with remaining fresh herbs, and enjoy!",
+              "secondary_message": null
+            }
+          ],
+          "line_items": [
+            {
+              "id": 86445,
+              "quantity": "1 (5 oz) pkg",
+              "ingredient_name": "baby spinach"
+            },
+            {
+              "id": 86455,
+              "quantity": "8 fl oz",
+              "ingredient_name": "chicken or vegetable broth"
+            },
+            {
+              "id": 86449,
+              "quantity": "1 (14.5 oz) can",
+              "ingredient_name": "diced tomatoes"
+            },
+            {
+              "id": 86444,
+              "quantity": "1 small pkg",
+              "ingredient_name": "fresh basil"
+            },
+            {
+              "id": 86443,
+              "quantity": "4 cloves",
+              "ingredient_name": "garlic"
+            },
+            {
+              "id": 86450,
+              "quantity": "1 small bunch",
+              "ingredient_name": "Italian (flat-leaf) parsley"
+            },
+            {
+              "id": 86454,
+              "quantity": "1 ½ lb",
+              "ingredient_name": "lean ground beef"
+            },
+            {
+              "id": 86446,
+              "quantity": "½ (8 oz) block",
+              "ingredient_name": "mozzarella cheese"
+            },
+            {
+              "id": 86451,
+              "quantity": "4 oz",
+              "ingredient_name": "Parmesan cheese"
+            },
+            {
+              "id": 86456,
+              "quantity": "2 tbsp",
+              "ingredient_name": "tomato paste"
+            },
+            {
+              "id": 86453,
+              "quantity": "2 medium",
+              "ingredient_name": "zucchini squash"
+            },
+            { "id": 86447, "quantity": "", "ingredient_name": "black pepper" },
+            { "id": 86448, "quantity": "", "ingredient_name": "salt" },
+            {
+              "id": 86452,
+              "quantity": "",
+              "ingredient_name": "virgin coconut oil"
+            }
+          ],
+          "nutrition": {
+            "energy": 661.59,
+            "alcohol": 0.0,
+            "ash": 7.74,
+            "caffeine": 0.0,
+            "water": 444.04,
+            "carbs": 13.96,
+            "fiber": 4.76,
+            "starch": 1.31,
+            "sugars": 7.0,
+            "fructose": 3.34,
+            "galactose": 0.1,
+            "glucose": 3.08,
+            "lactose": 0.25,
+            "maltose": 0.05,
+            "sucrose": 0.15,
+            "sugar_alcohol": 0.0,
+            "fat": 43.94,
+            "monounsaturated": 15.48,
+            "polyunsaturated": 1.58,
+            "omega_3": 0.52,
+            "omega_6": 1.15,
+            "saturated": 21.38,
+            "transfats": 1.8,
+            "cholesterol": 157.36,
+            "protein": 53.53,
+            "alanine": 2.75,
+            "arginine": 2.84,
+            "aspartic_acid": 4.58,
+            "cystine": 0.49,
+            "glutamic_acid": 9.49,
+            "glycine": 2.69,
+            "histidine": 1.69,
+            "isoleucine": 2.48,
+            "leucine": 4.3,
+            "lysine": 4.15,
+            "methionine": 1.32,
+            "phenylalanine": 2.28,
+            "proline": 3.66,
+            "serine": 2.26,
+            "threonine": 2.09,
+            "tryptophan": 0.5,
+            "tyrosine": 1.99,
+            "valine": 2.87,
+            "b1_thiamine": 0.78,
+            "b2_riboflavin": 0.7,
+            "b3_niacin": 10.83,
+            "b5_pantothenic_acid": 1.63,
+            "b6_pyridoxine": 1.05,
+            "b12_cobalamin": 4.74,
+            "choline": 146.67,
+            "folate": 143.45,
+            "vitamin_a": 1217.79,
+            "vitamin_c": 64.42,
+            "vitamin_d": 15.03,
+            "vitamin_e": 2.38,
+            "vitamin_k": 212.4,
+            "calcium": 298.64,
+            "copper": 0.4,
+            "iron": 7.42,
+            "magnesium": 121.81,
+            "manganese": 0.83,
+            "phosphorus": 703.12,
+            "potassium": 1452.59,
+            "selenium": 40.26,
+            "sodium": 369.67,
+            "zinc": 10.23
+          }
+        }
+      }
+    ],
+    "previous_meal_plan_meals": [],
+    "items": [
+      {
+        "id": 149504395,
+        "uuid": "d4995369-48f4-4f1f-8b7e-8081748dd6c1",
+        "quantity": "10 oz",
+        "ingredient_name": "spaghetti pasta",
+        "is_complete": false,
+        "section_id": 15,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": null,
+          "substitutes": "",
+          "equivalents": "",
+          "usages": ["Garlicky Spaghetti Parmesan Carbonara"]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504394,
+        "uuid": "ae0d1fb3-67cd-4fac-b79a-6b58076945ba",
+        "quantity": "6 slices",
+        "ingredient_name": "bacon",
+        "is_complete": false,
+        "section_id": 1,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/302/9c311486-905f-4e12-ac23-b9df75f73f2f.jpg",
+          "substitutes": "Try turkey bacon, Canadian (back) bacon, smoked ham, pancetta, smoked sausage, or vegetarian bacon.",
+          "equivalents": "",
+          "usages": ["Garlicky Spaghetti Parmesan Carbonara"]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504393,
+        "uuid": "40afe27f-b146-49eb-9699-fe0ce648bce7",
+        "quantity": "1 ½ fl oz",
+        "ingredient_name": "heavy cream",
+        "is_complete": false,
+        "section_id": 2,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": null,
+          "substitutes": null,
+          "equivalents": null,
+          "usages": ["Garlicky Spaghetti Parmesan Carbonara"]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504392,
+        "uuid": "72c1737e-3c10-49e5-b09e-650876abe526",
+        "quantity": "1 small pkg",
+        "ingredient_name": "fresh basil",
+        "is_complete": false,
+        "section_id": 4,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/28/e99078c8-3819-4f57-8b07-034779fbf64d.jpg",
+          "substitutes": "Try Thai basil, oregano, thyme, tarragon, or summer savory.",
+          "equivalents": "1 small pkg = 1 oz",
+          "usages": ["Cheesy Zucchini Noodle Lasagna Skillet "]
+        },
+        "subsection_id": 4
+      },
+      {
+        "id": 149504391,
+        "uuid": "817201f8-1482-4f93-916c-d71652388086",
+        "quantity": "½ (8 oz) block",
+        "ingredient_name": "mozzarella cheese",
+        "is_complete": false,
+        "section_id": 2,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/57/8f681034-3588-44b3-b2ae-c90beeff0ed5.jpg",
+          "substitutes": "",
+          "equivalents": "",
+          "usages": ["Cheesy Zucchini Noodle Lasagna Skillet "]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504390,
+        "uuid": "d58b4522-5ef6-48aa-ba85-8da4189d1fe1",
+        "quantity": "1 (14.5 oz) can",
+        "ingredient_name": "diced tomatoes",
+        "is_complete": false,
+        "section_id": 9,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/97/66c2709e-6596-4d53-86f1-e00538ad7277.jpg",
+          "substitutes": "",
+          "equivalents": "",
+          "usages": ["Cheesy Zucchini Noodle Lasagna Skillet "]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504389,
+        "uuid": "60e59f68-d3a5-42c6-8949-363ba023bdb3",
+        "quantity": "2 small bunches",
+        "ingredient_name": "Italian (flat-leaf) parsley",
+        "is_complete": false,
+        "section_id": 4,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/106/b9dc3878-6cc1-4273-83e8-bc175e08b11b.jpg",
+          "substitutes": "Try curly-leaf parsley, chervil, or dried parsley flakes.",
+          "equivalents": "",
+          "usages": [
+            "Garlicky Spaghetti Parmesan Carbonara",
+            "Cheesy Zucchini Noodle Lasagna Skillet "
+          ]
+        },
+        "subsection_id": 4
+      },
+      {
+        "id": 149504388,
+        "uuid": "519b5890-0781-4112-aadc-81ac0bb45955",
+        "quantity": "7 oz",
+        "ingredient_name": "Parmesan cheese",
+        "is_complete": false,
+        "section_id": 7,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/120/e3375905-e827-4d7e-86b5-edfde3922318.jpg",
+          "substitutes": "",
+          "equivalents": "",
+          "usages": [
+            "Garlicky Spaghetti Parmesan Carbonara",
+            "Cheesy Zucchini Noodle Lasagna Skillet "
+          ]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504387,
+        "uuid": "0ddde659-deb8-4e81-bc5f-cca7cf218f3e",
+        "quantity": "2 medium",
+        "ingredient_name": "zucchini squash",
+        "is_complete": false,
+        "section_id": 4,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/140/a17c77bd-1688-44ed-9c98-e44e1c1e37bc.jpg",
+          "substitutes": "Try yellow summer squash, another summer squash, or eggplant. For julienned zucchini in pasta and noodle dishes, try carrots.",
+          "equivalents": "1 medium zucchini squash = 7.3 oz / 0.45 lb",
+          "usages": ["Cheesy Zucchini Noodle Lasagna Skillet "]
+        },
+        "subsection_id": 3
+      },
+      {
+        "id": 149504386,
+        "uuid": "e6dec2b7-6f37-4cb8-b0bd-8fd06ee58a56",
+        "quantity": "1 ½ lb",
+        "ingredient_name": "lean ground beef",
+        "is_complete": false,
+        "section_id": 1,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/168/64677947-6195-4833-80d1-c2fc610aaef1.jpg",
+          "substitutes": "Try ground lamb, chicken, or turkey, or minced portobello mushrooms.",
+          "equivalents": "",
+          "usages": ["Cheesy Zucchini Noodle Lasagna Skillet "]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504385,
+        "uuid": "0b175141-6127-4823-9146-672a107fe3fc",
+        "quantity": "8 fl oz",
+        "ingredient_name": "chicken or vegetable broth",
+        "is_complete": false,
+        "section_id": 9,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/201/a3f2e80c-27a7-47b7-a0dc-c9f200c40252.jpg",
+          "substitutes": "Try bouillon cubes (1 cube for every 1 cup of hot water), bouillon granules (1 tsp for every 1 cup of hot water), beef broth (can be overpowering), or water (for cooking grains).",
+          "equivalents": "",
+          "usages": ["Cheesy Zucchini Noodle Lasagna Skillet "]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504384,
+        "uuid": "166fd0b9-ab40-4c61-bcc7-67ec0e25ebcf",
+        "quantity": "2 tbsp",
+        "ingredient_name": "tomato paste",
+        "is_complete": false,
+        "section_id": 9,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": null,
+          "substitutes": "",
+          "equivalents": "",
+          "usages": ["Cheesy Zucchini Noodle Lasagna Skillet "]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504383,
+        "uuid": "a4c4c77a-89b7-4222-817d-1406b70c2ebe",
+        "quantity": "2 (15 oz) cans",
+        "ingredient_name": "black beans",
+        "is_complete": false,
+        "section_id": 9,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/185/77b47e55-6bc6-427d-8158-8459e754d1ac.jpg",
+          "substitutes": "Try pinto or kidney beans.",
+          "equivalents": "",
+          "usages": ["Southwestern Black Bean Cakes with Guacamole \u0026 Corn"]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504382,
+        "uuid": "843ce560-cb2a-43c6-8157-94a3a3037b6f",
+        "quantity": "1 small bunch",
+        "ingredient_name": "cilantro",
+        "is_complete": false,
+        "section_id": 4,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/188/02c03331-0e94-46e8-a830-c491448541d7.jpg",
+          "substitutes": "Try Italian (flat-leaf) or curly parsley (have a similar appearance, but different flavor).",
+          "equivalents": "",
+          "usages": ["Southwestern Black Bean Cakes with Guacamole \u0026 Corn"]
+        },
+        "subsection_id": 4
+      },
+      {
+        "id": 149504381,
+        "uuid": "b3712564-0c08-4a59-b46e-188a86c0fc0e",
+        "quantity": "2 cups",
+        "ingredient_name": "frozen corn",
+        "is_complete": false,
+        "section_id": 13,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/303/c81b3f75-3467-4ff5-a666-b6f3c84171af.jpg",
+          "substitutes": "Try corn kernels removed from the cob, canned corn, or frozen green peas.",
+          "equivalents": "",
+          "usages": ["Southwestern Black Bean Cakes with Guacamole \u0026 Corn"]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504380,
+        "uuid": "5b82e9f4-aafc-4a41-8dee-7a84574a8012",
+        "quantity": "2",
+        "ingredient_name": "jalapeño peppers",
+        "is_complete": false,
+        "section_id": 4,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/151/1d60c604-a3bc-422f-b6e9-c81312b3f408.jpg",
+          "substitutes": "Try Fresno chili, guero chili, serrano pepper, or cayenne pepper.",
+          "equivalents": "",
+          "usages": ["Southwestern Black Bean Cakes with Guacamole \u0026 Corn"]
+        },
+        "subsection_id": 3
+      },
+      {
+        "id": 149504379,
+        "uuid": "e56293f2-ce5e-43f5-9a9c-08cff10f8ebb",
+        "quantity": "2",
+        "ingredient_name": "limes",
+        "is_complete": false,
+        "section_id": 4,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/228/e3acba07-2ab9-42ab-87a3-7d517ad80ae2.jpg",
+          "substitutes": "For a lime zest substitute, try lemon or orange zest. For a lime juice substitute, try lemons (have a weaker flavor so use more), bottled lime or lemon juice, or vinegar (e.g., apple cider, white wine) if acidity is needed (start with less as it may be more harsh).",
+          "equivalents": "",
+          "usages": ["Southwestern Black Bean Cakes with Guacamole \u0026 Corn"]
+        },
+        "subsection_id": 1
+      },
+      {
+        "id": 149504378,
+        "uuid": "dec8755e-f7bb-40c9-9bc0-dafce8c5da93",
+        "quantity": "",
+        "ingredient_name": "panko bread crumbs",
+        "is_complete": false,
+        "section_id": 6,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/119/e0d1b1ac-bf5e-4fe4-8597-201da9b98ca5.jpg",
+          "substitutes": "",
+          "equivalents": "",
+          "usages": ["Southwestern Black Bean Cakes with Guacamole \u0026 Corn"]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504377,
+        "uuid": "82c2d2e8-c465-493e-ba47-6da4c5cae240",
+        "quantity": "",
+        "ingredient_name": "cumin",
+        "is_complete": false,
+        "section_id": 8,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/186/b1637d08-33d3-43ce-a0a1-816145a7ad17.jpg",
+          "substitutes": "",
+          "equivalents": "",
+          "usages": ["Southwestern Black Bean Cakes with Guacamole \u0026 Corn"]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504376,
+        "uuid": "1424660e-7763-4453-b569-f545e1fa2787",
+        "quantity": "",
+        "ingredient_name": "Italian seasoning",
+        "is_complete": false,
+        "section_id": 8,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": null,
+          "substitutes": null,
+          "equivalents": null,
+          "usages": [
+            "Chicken \u0026 Fresh Mozzarella Sandwich with Avocado \u0026 Spinach Salad"
+          ]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504375,
+        "uuid": "6c26e543-ab21-4221-b3ce-b55592130346",
+        "quantity": "2",
+        "ingredient_name": "tomatoes",
+        "is_complete": false,
+        "section_id": 4,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/260/6b5ee2db-4c05-4501-865d-14a8b3552320.jpg",
+          "substitutes": "",
+          "equivalents": "1 medium tomato = 4.8 oz / 0.3 lb",
+          "usages": [
+            "Chicken \u0026 Fresh Mozzarella Sandwich with Avocado \u0026 Spinach Salad"
+          ]
+        },
+        "subsection_id": 2
+      },
+      {
+        "id": 149504374,
+        "uuid": "6c313c13-676d-40cd-842a-e2e72daac8d3",
+        "quantity": "2 (5 oz) pkgs",
+        "ingredient_name": "baby spinach",
+        "is_complete": false,
+        "section_id": 4,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/33/d7ccc5b7-fe03-4a87-80c2-4438039bcdad.jpg",
+          "substitutes": "For cold dishes like salads, try spring mix (mixed greens), baby arugula, kale, or lettuce. For hot dishes like sautés, try kale, Swiss chard, collard greens, or rapini.",
+          "equivalents": "",
+          "usages": [
+            "Chicken \u0026 Fresh Mozzarella Sandwich with Avocado \u0026 Spinach Salad",
+            "Cheesy Zucchini Noodle Lasagna Skillet "
+          ]
+        },
+        "subsection_id": 5
+      },
+      {
+        "id": 149504373,
+        "uuid": "e8d08b32-82a6-4cab-a3ff-1dd9e1a7d21c",
+        "quantity": "4",
+        "ingredient_name": "avocados",
+        "is_complete": false,
+        "section_id": 4,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/183/1d9253d9-1e0d-4834-80de-9bbbbb9a1a37.jpg",
+          "substitutes": "For mashing (e.g., guacamole), try thawed green peas. For salads, try artichoke hearts.",
+          "equivalents": "",
+          "usages": [
+            "Chicken \u0026 Fresh Mozzarella Sandwich with Avocado \u0026 Spinach Salad",
+            "Southwestern Black Bean Cakes with Guacamole \u0026 Corn"
+          ]
+        },
+        "subsection_id": 2
+      },
+      {
+        "id": 149504372,
+        "uuid": "2f97d334-526f-4048-992c-ec03793b207c",
+        "quantity": "4",
+        "ingredient_name": "whole grain buns or rolls",
+        "is_complete": false,
+        "section_id": 6,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/128/829d659f-0514-4413-b3e4-58d04fd574fd.jpg",
+          "substitutes": "",
+          "equivalents": "",
+          "usages": [
+            "Chicken \u0026 Fresh Mozzarella Sandwich with Avocado \u0026 Spinach Salad"
+          ]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504371,
+        "uuid": "da07dc2f-d858-4a89-80fc-66a38d0817dc",
+        "quantity": "1 (8 oz) pkg",
+        "ingredient_name": "fresh mozzarella cheese",
+        "is_complete": false,
+        "section_id": 7,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/107/33abf4ff-0af9-4853-b502-bf1c61655545.jpg",
+          "substitutes": "",
+          "equivalents": "",
+          "usages": [
+            "Chicken \u0026 Fresh Mozzarella Sandwich with Avocado \u0026 Spinach Salad"
+          ]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504370,
+        "uuid": "46773769-89c3-4144-b1e3-6b2a94f1e8cc",
+        "quantity": "",
+        "ingredient_name": "virgin coconut oil",
+        "is_complete": false,
+        "section_id": 14,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/129/ba8d5172-ab8a-4c8d-b0cf-899ce0323467.jpg",
+          "substitutes": "",
+          "equivalents": "",
+          "usages": [
+            "Chicken \u0026 Fresh Mozzarella Sandwich with Avocado \u0026 Spinach Salad",
+            "Southwestern Black Bean Cakes with Guacamole \u0026 Corn",
+            "Cheesy Zucchini Noodle Lasagna Skillet "
+          ]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504369,
+        "uuid": "70d92fe8-9456-4012-9e3f-4265b5b356fc",
+        "quantity": "",
+        "ingredient_name": "extra virgin olive oil",
+        "is_complete": false,
+        "section_id": 14,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/47/f568be59-74ee-4eed-8875-7d61c6d06997.jpg",
+          "substitutes": "For cold dishes and salads, try walnut, almond, or hazelnut oil. For sautéing, try coconut oil or butter.",
+          "equivalents": "",
+          "usages": [
+            "Chicken \u0026 Fresh Mozzarella Sandwich with Avocado \u0026 Spinach Salad"
+          ]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504368,
+        "uuid": "0ad39f11-21d3-49f9-9f62-b6fc8bc592cd",
+        "quantity": "",
+        "ingredient_name": "red wine vinegar",
+        "is_complete": false,
+        "section_id": 14,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/130/304d75a2-a165-4a26-826e-5eb22cf9beff.jpg",
+          "substitutes": "Try white wine vinegar (very similar), balsamic vinegar (sweeter), sherry vinegar, apple cider vinegar, rice vinegar, or lemon/lime juice.",
+          "equivalents": "",
+          "usages": [
+            "Chicken \u0026 Fresh Mozzarella Sandwich with Avocado \u0026 Spinach Salad"
+          ]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504367,
+        "uuid": "16e50c7b-d4d2-49df-a0e3-8e12b718bb51",
+        "quantity": "1 medium",
+        "ingredient_name": "yellow onion",
+        "is_complete": false,
+        "section_id": 4,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/152/d4036a2a-b4c3-470b-bccf-e2b1d2e9f2f8.jpg",
+          "substitutes": "Try red or white onion or shallots.",
+          "equivalents": "1 medium yellow onion = 4.3 oz / 0.27 lb",
+          "usages": ["Better Than Takeout Chicken Fried Rice"]
+        },
+        "subsection_id": 2
+      },
+      {
+        "id": 149504366,
+        "uuid": "bd4b1e8c-c95d-45bb-85e4-4d990a159d01",
+        "quantity": "1 small bunch",
+        "ingredient_name": "green onions (scallions)",
+        "is_complete": false,
+        "section_id": 4,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/153/d48a455e-7d8e-4244-9891-d5d0b0229581.jpg",
+          "substitutes": "Try chives.",
+          "equivalents": "1 small bunch = 8-10 onions",
+          "usages": ["Better Than Takeout Chicken Fried Rice"]
+        },
+        "subsection_id": 4
+      },
+      {
+        "id": 149504365,
+        "uuid": "508a8481-a4dc-4ac6-aba2-158cf251e8e5",
+        "quantity": "14 cloves",
+        "ingredient_name": "garlic",
+        "is_complete": false,
+        "section_id": 4,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/24/63217601-36f2-4586-89d9-31e13e8d359b.jpg",
+          "substitutes": "Try garlic flakes (substitute ½ tsp for every clove of garlic), garlic powder (substitute ⅛ tsp for every clove of garlic), garlic greens, chives, or shallots.",
+          "equivalents": "",
+          "usages": [
+            "Chicken \u0026 Fresh Mozzarella Sandwich with Avocado \u0026 Spinach Salad",
+            "Southwestern Black Bean Cakes with Guacamole \u0026 Corn",
+            "Garlicky Spaghetti Parmesan Carbonara",
+            "Better Than Takeout Chicken Fried Rice",
+            "Cheesy Zucchini Noodle Lasagna Skillet "
+          ]
+        },
+        "subsection_id": 2
+      },
+      {
+        "id": 149504364,
+        "uuid": "eaa3fd47-6602-4715-b839-677114793b42",
+        "quantity": "2 cups",
+        "ingredient_name": "frozen peas",
+        "is_complete": false,
+        "section_id": 13,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/275/41e81544-b50b-4818-8253-12623be0c52f.jpg",
+          "substitutes": "Try fresh or canned peas, edamame, or lima beans.",
+          "equivalents": "",
+          "usages": ["Better Than Takeout Chicken Fried Rice"]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504363,
+        "uuid": "2675c918-aad7-433d-865b-71ac6740ca90",
+        "quantity": "8",
+        "ingredient_name": "eggs",
+        "is_complete": false,
+        "section_id": 2,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/121/c40f5f78-f9b6-46d0-b274-15719373be40.jpg",
+          "substitutes": "",
+          "equivalents": "",
+          "usages": [
+            "Southwestern Black Bean Cakes with Guacamole \u0026 Corn",
+            "Garlicky Spaghetti Parmesan Carbonara",
+            "Better Than Takeout Chicken Fried Rice"
+          ]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504362,
+        "uuid": "207774a4-36d2-4812-9db1-f3bb03781c40",
+        "quantity": "2 ½ lb",
+        "ingredient_name": "chicken breasts, boneless skinless",
+        "is_complete": false,
+        "section_id": 1,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/44/21a0dbff-8fc0-4f5d-81aa-ce65001cae84.jpg",
+          "substitutes": "Try turkey breasts, boneless skinless chicken thighs, or boneless pork chops.",
+          "equivalents": "1 chicken breast = 6-8 oz",
+          "usages": [
+            "Chicken \u0026 Fresh Mozzarella Sandwich with Avocado \u0026 Spinach Salad",
+            "Better Than Takeout Chicken Fried Rice"
+          ]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504361,
+        "uuid": "0a373940-6ebf-4d3b-a78c-1b9dee20d01e",
+        "quantity": "4 medium",
+        "ingredient_name": "carrots",
+        "is_complete": false,
+        "section_id": 4,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/159/f9644a6e-7ffe-46bc-9b29-1e014008ead5.jpg",
+          "substitutes": "Try parsnips, beets, or sweet potatoes (have a similar color).",
+          "equivalents": "1 medium carrot = 2.4 oz / 0.15 lb",
+          "usages": ["Better Than Takeout Chicken Fried Rice"]
+        },
+        "subsection_id": 3
+      },
+      {
+        "id": 149504360,
+        "uuid": "ba39f548-959e-486b-b5c9-f8a4e48b322d",
+        "quantity": "",
+        "ingredient_name": "black pepper",
+        "is_complete": false,
+        "section_id": 8,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/72/88557efe-9898-4df9-951a-3a4d413a9de8.jpg",
+          "substitutes": "Try white pepper (less pungent, more delicate flavor) or cayenne pepper (hotter).",
+          "equivalents": "",
+          "usages": [
+            "Chicken \u0026 Fresh Mozzarella Sandwich with Avocado \u0026 Spinach Salad",
+            "Southwestern Black Bean Cakes with Guacamole \u0026 Corn",
+            "Garlicky Spaghetti Parmesan Carbonara",
+            "Better Than Takeout Chicken Fried Rice",
+            "Cheesy Zucchini Noodle Lasagna Skillet "
+          ]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504359,
+        "uuid": "f0a3a539-c782-4f7d-a7bd-4028cf7026f3",
+        "quantity": "",
+        "ingredient_name": "salt",
+        "is_complete": false,
+        "section_id": 8,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/88/722f84f2-b1f8-4918-9614-2219b452c0bd.jpg",
+          "substitutes": "",
+          "equivalents": "",
+          "usages": [
+            "Chicken \u0026 Fresh Mozzarella Sandwich with Avocado \u0026 Spinach Salad",
+            "Southwestern Black Bean Cakes with Guacamole \u0026 Corn",
+            "Garlicky Spaghetti Parmesan Carbonara",
+            "Better Than Takeout Chicken Fried Rice",
+            "Cheesy Zucchini Noodle Lasagna Skillet "
+          ]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504358,
+        "uuid": "bfd85964-2b92-46b7-9359-a46fb7ab7680",
+        "quantity": "",
+        "ingredient_name": "soy sauce",
+        "is_complete": false,
+        "section_id": 5,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/53/9039319a-f45a-4b87-adaf-90cd68800b74.jpg",
+          "substitutes": "Try tamari sauce, coconut aminos, black bean sauce thinned with water, or Worcestershire sauce thinned with water.",
+          "equivalents": "",
+          "usages": ["Better Than Takeout Chicken Fried Rice"]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504357,
+        "uuid": "dd8ed719-0d9e-4453-b24e-95c0dbccc3b2",
+        "quantity": "",
+        "ingredient_name": "toasted sesame oil",
+        "is_complete": false,
+        "section_id": 5,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/51/b0f548ec-676e-4e15-9d92-9366e513bc34.jpg",
+          "substitutes": "",
+          "equivalents": "",
+          "usages": ["Better Than Takeout Chicken Fried Rice"]
+        },
+        "subsection_id": 0
+      },
+      {
+        "id": 149504356,
+        "uuid": "e4694ed6-6c18-4c66-8e29-663338b9ce50",
+        "quantity": "1 cup",
+        "ingredient_name": "basmati rice",
+        "is_complete": false,
+        "section_id": 3,
+        "is_user_created": false,
+        "warnings": [],
+        "extra": {
+          "image_url": "https://cdn-uploads.mealime.com/uploads/ingredient/269/2050ce44-e7f7-41fa-bc72-86f9002b21c5.jpg",
+          "substitutes": "Try long grain white rice or jasmine rice.",
+          "equivalents": "",
+          "usages": ["Better Than Takeout Chicken Fried Rice"]
+        },
+        "subsection_id": 0
+      }
+    ],
+    "sections": [
+      { "id": 4, "name": "Produce" },
+      { "id": 7, "name": "Deli \u0026 Specialty Cheese" },
+      { "id": 6, "name": "Bakery" },
+      { "id": 1, "name": "Meat \u0026 Seafood" },
+      { "id": 2, "name": "Dairy, Cheese \u0026 Eggs" },
+      { "id": 13, "name": "Frozen" },
+      { "id": 8, "name": "Baking \u0026 Spices" },
+      { "id": 12, "name": "Nuts, Seeds \u0026 Dried Fruit" },
+      { "id": 11, "name": "Nut Butters, Honey \u0026 Jams" },
+      { "id": 3, "name": "Rice, Grains \u0026 Beans" },
+      { "id": 9, "name": "Canned \u0026 Jarred Goods" },
+      { "id": 15, "name": "Pasta \u0026 Sauces" },
+      { "id": 14, "name": "Oils, Sauces \u0026 Condiments" },
+      { "id": 5, "name": "Ethnic" },
+      { "id": 17, "name": "Other" }
+    ],
+    "user_meals": []
+  }
+}
